@@ -26,6 +26,8 @@ super + Escape
 # bspwm hotkeys
 super + d
     bspc node focused -t \~floating
+super + shift + s
+    flameshot gui
 #
 
 # quit/restart bspwm
